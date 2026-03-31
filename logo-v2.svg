@@ -1,0 +1,11 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="720" height="720" rx="84" fill="#120C09"/>
+<rect x="46" y="46" width="628" height="628" rx="56" stroke="#D8A455" stroke-opacity="0.35" stroke-width="2"/>
+<circle cx="360" cy="260" r="150" stroke="#D8A455" stroke-width="5"/>
+<path d="M265 348V175H305V320H398V348H265Z" fill="#F4E8D8"/>
+<path d="M403 176C425 176 442 181 454 191C466 201 472 214 472 230C472 244 468 255 460 263C452 271 442 276 430 279C445 282 457 289 466 300C475 310 480 323 480 339C480 351 478 362 473 371C468 380 461 388 452 394C443 400 433 405 421 408C409 411 396 413 382 413H330V176H403ZM389 275C402 275 412 272 420 266C428 260 432 252 432 241C432 230 428 222 420 217C412 211 401 208 387 208H365V275H389ZM392 381C408 381 420 377 429 370C438 363 442 353 442 340C442 326 437 316 426 309C415 302 401 298 382 298H365V381H392Z" fill="#D8A455"/>
+<path d="M226 510C269 462 316 438 366 438C416 438 463 462 506 510" stroke="#6B2434" stroke-width="18" stroke-linecap="round"/>
+<circle cx="360" cy="510" r="14" fill="#D8A455"/>
+<text x="360" y="572" text-anchor="middle" fill="#F4E8D8" font-size="66" font-family="Georgia, serif" letter-spacing="7">CHIDERA</text>
+<text x="360" y="626" text-anchor="middle" fill="#D8A455" font-size="28" font-family="Arial, sans-serif" letter-spacing="10">LUXURY</text>
+</svg>

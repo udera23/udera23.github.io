@@ -1,0 +1,11 @@
+<svg width="900" height="1080" viewBox="0 0 900 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="1080" fill="#0F0908"/>
+<text x="450" y="88" text-anchor="middle" fill="#F0CF9E" font-size="40" font-family="Georgia, serif">Royal Ember Gown</text>
+<rect x="120" y="130" width="660" height="860" rx="40" fill="#17100D" stroke="#D8A455" stroke-opacity="0.18"/>
+<ellipse cx="450" cy="270" rx="80" ry="92" fill="#CA9A6D"/>
+<path d="M370 380C395 332 505 332 530 380L622 595C650 660 610 730 536 730H364C290 730 250 660 278 595L370 380Z" fill="#8B2C3C"/>
+<path d="M398 390H502" stroke="#F0CF9E" stroke-width="4"/>
+<path d="M352 630C352 630 330 860 300 960H387L425 730H475L513 960H600C570 860 548 630 548 630H352Z" fill="#6B2434"/>
+<circle cx="450" cy="528" r="28" fill="#D8A455"/>
+<text x="450" y="1030" text-anchor="middle" fill="#D8C3AC" font-size="24" font-family="Arial">Occasionwear concept with rich Afro-luxury palette</text>
+</svg>

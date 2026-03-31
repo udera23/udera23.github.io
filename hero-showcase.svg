@@ -1,0 +1,38 @@
+<svg width="1200" height="980" viewBox="0 0 1200 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="980" rx="36" fill="#120C09"/>
+<circle cx="960" cy="170" r="180" fill="#D8A455" fill-opacity="0.12"/>
+<circle cx="220" cy="830" r="220" fill="#6B2434" fill-opacity="0.20"/>
+<text x="80" y="105" fill="#F4E8D8" font-size="68" font-family="Georgia, serif">Afro-Luxury Collection</text>
+<text x="82" y="155" fill="#D8A455" font-size="28" font-family="Arial, sans-serif" letter-spacing="4">CHIDERA LUXURY — SEASONAL SHOWCASE</text>
+
+<g transform="translate(90 240)">
+<rect x="0" y="0" width="300" height="580" rx="28" fill="#1A120F" stroke="#D8A455" stroke-opacity="0.18"/>
+<ellipse cx="150" cy="92" rx="48" ry="56" fill="#CA9A6D"/>
+<path d="M110 170C125 138 175 138 190 170L245 275L208 510H92L55 275L110 170Z" fill="#8B2C3C"/>
+<path d="M130 176L150 215L170 176" stroke="#F0CF9E" stroke-width="4"/>
+<path d="M102 508L86 560H128L140 508H102Z" fill="#CA9A6D"/>
+<path d="M198 508L160 508L172 560H214L198 508Z" fill="#CA9A6D"/>
+<text x="150" y="620" text-anchor="middle" fill="#F4E8D8" font-size="24" font-family="Arial">Royal Ember</text>
+</g>
+
+<g transform="translate(450 240)">
+<rect x="0" y="0" width="300" height="580" rx="28" fill="#1A120F" stroke="#D8A455" stroke-opacity="0.18"/>
+<ellipse cx="150" cy="92" rx="48" ry="56" fill="#CA9A6D"/>
+<path d="M110 170C124 140 176 140 190 170L214 250H86L110 170Z" fill="#ECE3D6"/>
+<path d="M95 250H205V500H95V250Z" fill="#ECE3D6"/>
+<path d="M95 500L76 570H126L142 500H95Z" fill="#D9CCBC"/>
+<path d="M205 500L158 500L174 570H224L205 500Z" fill="#D9CCBC"/>
+<text x="150" y="620" text-anchor="middle" fill="#F4E8D8" font-size="24" font-family="Arial">Ivory Crown</text>
+</g>
+
+<g transform="translate(810 240)">
+<rect x="0" y="0" width="300" height="580" rx="28" fill="#1A120F" stroke="#D8A455" stroke-opacity="0.18"/>
+<ellipse cx="150" cy="92" rx="48" ry="56" fill="#CA9A6D"/>
+<path d="M105 172C120 138 180 138 195 172L238 300H183L150 220L117 300H62L105 172Z" fill="#181818"/>
+<path d="M118 220H182L150 252L118 220Z" fill="#2B2B2B"/>
+<path d="M110 300H190V500H110V300Z" fill="#181818"/>
+<path d="M110 500L88 570H138L152 500H110Z" fill="#101010"/>
+<path d="M190 500L148 500L162 570H212L190 500Z" fill="#101010"/>
+<text x="150" y="620" text-anchor="middle" fill="#F4E8D8" font-size="24" font-family="Arial">Heritage Noir</text>
+</g>
+</svg>

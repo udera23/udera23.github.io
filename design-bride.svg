@@ -1,0 +1,11 @@
+<svg width="900" height="1080" viewBox="0 0 900 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="1080" fill="#0F0908"/>
+<text x="450" y="88" text-anchor="middle" fill="#F0CF9E" font-size="40" font-family="Georgia, serif">Golden Bride</text>
+<rect x="120" y="130" width="660" height="860" rx="40" fill="#17100D" stroke="#D8A455" stroke-opacity="0.18"/>
+<ellipse cx="450" cy="270" rx="80" ry="92" fill="#CA9A6D"/>
+<path d="M360 390C384 338 516 338 540 390L615 610C650 710 575 790 450 790C325 790 250 710 285 610L360 390Z" fill="#F0ECE6"/>
+<path d="M398 384L450 458L502 384" stroke="#D8A455" stroke-width="4"/>
+<path d="M330 660C330 660 290 860 240 960H370L410 790H490L530 960H660C610 860 570 660 570 660H330Z" fill="#E2D8C8"/>
+<circle cx="450" cy="530" r="26" fill="#D8A455"/>
+<text x="450" y="1030" text-anchor="middle" fill="#D8C3AC" font-size="24" font-family="Arial">Bridal luxury concept with regal volume and clean softness</text>
+</svg>
